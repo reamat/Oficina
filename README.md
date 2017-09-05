@@ -1,2 +1,2 @@
 # Oficina2017
-Oficina de escrita colaboratica com Git
+Oficina de escrita colaborativa com Git
