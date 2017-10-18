@@ -39,7 +39,7 @@ A matemática ainda continua a se desenvolver intensamente por todo o mundo nos 
 
 O ensino da matemática e, na verdade, de outras matérias, desde o [[descobrimento do Brasil]], era ministrado pelos jesuítas até a expulsão deles em 1759. Desta data até 1808 os ex-alunos dos jesuítas ficaram encarregados pelo ensino. De 1808 a 1834 a matéria era ministrada nas escolas do Exército e da Marinha e a partir de 1873 também nas escolas de Engenharia. Em 1874 é criada a Escola Politécnica a partir da Escola Central, ex-Escola Militar. A Escola de Minas de Ouro Preto é criada em 1875 e a [[Escola Politécnica de São Paulo]] em 1893. Assim, o ensino de matemática passa também a ser oferecido em escolas não militares.<ref name="múltipla">Honig, Chain S. e Gomide, Elza F. Capítulo 2: Ciências matemáticas. Pp. 35-60. In: História das ciências no Brasil. Coordenação: Ferri, Mário Guimarães e Motoyama, Shozo. São Paulo: EPU: Ed. da [[Universidade de São Paulo]], 1979. 390p.
 
-== Áreas e metodologia ==
+== Metodologia e áreas ==
 
 
 == Notação, linguagem e rigor ==
