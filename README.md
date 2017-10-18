@@ -1,2 +1,2 @@
-# Oficina2017
+# Oficina
 Oficina de escrita colaborativa com Git
