@@ -7,5 +7,5 @@ Projetos de escrita colaborativa demandam ferramentas apropriadas para sua reali
 Nesta oficina, os participantes são introduzidos à utilização do sistema de controle de versão Git em um contexto de escrita colaborativa. Usando este repositório GitHub público, os participantes participam ativamente da escrita colaborativa de um texto ao mesmo tempo que são apresentadas as ferramentas de controle de versão para tal tarefa.
 
 ## Objetivos da oficina
-Introduzir de forma interativa os participantes à utilização do sistema de controle de versão Git, usando o GitHub como repositório online.
+Introduzir, no contexto de um projeto de escrita colaborativa e de forma interativa, os participantes à utilização do sistema de controle de versão Git, usando o GitHub como repositório online.
 
